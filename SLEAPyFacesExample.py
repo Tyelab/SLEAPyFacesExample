@@ -1,4 +1,6 @@
 #%%
+%python3 -m pip install sleapyfaces==1.2.0b2.dev10
+#%%
 from sleapyfaces.base import Project
 
 proj = Project(
